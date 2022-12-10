@@ -3,7 +3,7 @@
 
 int main()
 {
-    int base, height, hypo;
+    int base, height;
     std::cout << "Enter base of the rectangle: ";
     std::cin >> base;
 
